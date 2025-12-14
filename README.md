@@ -1,6 +1,6 @@
 # MangoPi-Nezha
 
-Here are some preconpiled binaries from some RUST CLI apps...  
+Here are some precompiled binaries from some RUST CLI apps...  
 
 I forget what they all do..
 
